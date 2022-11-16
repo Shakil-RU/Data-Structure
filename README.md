@@ -13,3 +13,5 @@
 
 ## Searching
   - [Binary Search](https://github.com/Shakil-RU/Data-Structure/blob/main/Searching/binary_search.cpp)
+## Linked List All
+ - [Link List](https://github.com/Shakil-RU/Data-Structure/blob/main/Linked_List_All/all_type_code.cpp)
