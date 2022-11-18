@@ -17,6 +17,9 @@
  - [Link List](https://github.com/Shakil-RU/Data-Structure/blob/main/Linked_List_All/all_type_code.cpp)
 ## Stack
  - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation)
+ - [infix_to_postfix](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/Infix_To_Postfix.cpp)
+ - [postfix_evaluation]()
+ - [infix_evaluation]()
 ## Queue
  - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation)
 ## Recursion
