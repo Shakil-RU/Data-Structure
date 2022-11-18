@@ -19,7 +19,7 @@
  - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation)
  - [infix_to_postfix](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/Infix_To_Postfix.cpp)
  - [postfix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/postfix_evaluation.cpp)
- - [infix_evaluation]()
+ - [infix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/infix_evaluuation.cpp)
 ## Queue
  - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation)
 ## Recursion
