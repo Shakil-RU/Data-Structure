@@ -19,3 +19,5 @@
  - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation)
 ## Queue
  - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation)
+## Recursion
+ - [factorial](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/factorial)
