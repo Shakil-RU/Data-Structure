@@ -29,6 +29,7 @@
 ## Tree
  #### Binary Tree
  #### Binary Search Tree
-  - [Binary Search Tree]()
+  - [Binary Search Tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Binary_search_tree/binary_search_tree.cpp)
+  - [BST insert and print 2D]()
  #### Heap
   - [Heap (insertion and delation)]()
