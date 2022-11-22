@@ -32,4 +32,4 @@
   - [Binary Search Tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Binary_search_tree/binary_search_tree.cpp)
   - [BST insert and print 2D](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Binary_search_tree/bst_insert_and_print_2D.cpp)
  #### Heap
-  - [Heap (insertion and delation)]()
+  - [Heap (insertion and delation)](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Heap/heap_insertion_and_deletion.cpp)
