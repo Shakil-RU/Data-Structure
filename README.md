@@ -29,6 +29,7 @@
 ## Tree
  #### Binary Tree
   - [Iterative_Preorder](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/Iterative_Preorder.cpp)
+  - [Iterative Inorder](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/Iterative_Inorder.cpp)
   - [Binary tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/binary_tree.cpp)
  #### Binary Search Tree
   - [Binary Search Tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Binary_search_tree/binary_search_tree.cpp)
