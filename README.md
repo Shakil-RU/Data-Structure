@@ -10,23 +10,29 @@
 
 ## Sorting
   - [Bubble sort](https://github.com/Shakil-RU/Data-Structure/blob/main/Sorting/bubble_sort.cpp)
-
+  - [Quick sort](https://github.com/Shakil-RU/Data-Structure/blob/main/Sorting/Quick_Sort.cpp)
+  
 ## Searching
   - [Linear Search](https://github.com/Shakil-RU/Data-Structure/blob/main/Searching/Linear_search.cpp)
   - [Binary Search](https://github.com/Shakil-RU/Data-Structure/blob/main/Searching/binary_search.cpp)
+  
 ## Linked List All
  - [Link List](https://github.com/Shakil-RU/Data-Structure/blob/main/Linked_List_All/all_type_code.cpp)
+ 
 ## Stack
  - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation)
  - [infix_to_postfix](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/Infix_To_Postfix.cpp)
  - [postfix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/postfix_evaluation.cpp)
  - [infix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/infix_evaluuation.cpp)
+ 
 ## Queue
  - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation)
+ 
 ## Recursion
  - [factorial](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/factorial)
  - [fibonacci](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/fibonacci.cpp)
  - [Tower of hanoi](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/Tower%20of%20Hanoi)
+ 
 ## Tree
  #### Binary Tree
   - [Binary tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/binary_tree.cpp)
