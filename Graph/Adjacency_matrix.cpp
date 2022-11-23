@@ -20,13 +20,14 @@ int main()
     }
    
    // Enter the edges for undirected graph
+   cout<<"Enter edges: "<<endl;
    for(int i = 0; i<edge; i++)
    {
     int u, v;
-    cin>>u,v;
+    cin>>u>>v;
     if(u>vertex || v>vertex)
     {
-        cout<<"invalid edge"<<endl;
+        cout<<"invalid edge";
         i--;
     }
     else{
@@ -39,7 +40,7 @@ int main()
    {
      for(int j = 0; j<vertex; j++)
      {
-       cout<<adjacencymatrix[i][j]<<"";
+       cout<<adjacencymatrix[i][j]<<" ";
      }
      cout<<endl;
    }
