@@ -48,3 +48,6 @@
    - [Adjacency matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/Adjacency_matrix.cpp)
    - [power matrix and path matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/power_matrix_and_path_matrix.cpp)
    - [Warshall Algorithm to find out path matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/warshall_algorithm.cpp)
+   - [Adjacency List representation of graph](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/Adjacency_list_representation.cpp)
+   - [BFS Traversal]()
+   - [DFS Traversal]()
