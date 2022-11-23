@@ -33,7 +33,7 @@
  - [fibonacci](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/fibonacci.cpp)
  - [Tower of hanoi](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/Tower%20of%20Hanoi)
  
-## Tree
+ ## Tree
  #### Binary Tree
   - [Binary tree](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/binary_tree.cpp)
   - [Iterative_Preorder](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/binary_tree/Iterative_Preorder.cpp)
@@ -44,3 +44,5 @@
   - [BST insert and print 2D](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Binary_search_tree/bst_insert_and_print_2D.cpp)
  #### Heap
   - [Heap (insertion and delation)](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Heap/heap_insertion_and_deletion.cpp)
+  ## Graph
+   - [Adjacency matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/Adjacency_matrix.cpp)
