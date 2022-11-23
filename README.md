@@ -29,7 +29,7 @@
  - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation.cpp)
  
 ## Recursion
- - [factorial](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/factorial)
+ - [factorial](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/factorial.cpp)
  - [fibonacci](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/fibonacci.cpp)
  - [Tower of hanoi](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/Tower%20of%20Hanoi)
  
