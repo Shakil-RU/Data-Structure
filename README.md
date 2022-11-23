@@ -46,3 +46,4 @@
   - [Heap (insertion and delation)](https://github.com/Shakil-RU/Data-Structure/blob/main/Tree/Heap/heap_insertion_and_deletion.cpp)
   ## Graph
    - [Adjacency matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/Adjacency_matrix.cpp)
+   - [power matrix and path matrix](https://github.com/Shakil-RU/Data-Structure/blob/main/Graph/power_matrix_and_path_matrix.cpp)
