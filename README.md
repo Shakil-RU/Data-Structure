@@ -20,7 +20,7 @@
  - [Link List](https://github.com/Shakil-RU/Data-Structure/blob/main/Linked_List_All/all_type_code.cpp)
  
 ## Stack
- - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation)
+ - [stack](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/creating%20stack%20and%20its%20operation.cpp)
  - [infix_to_postfix](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/Infix_To_Postfix.cpp)
  - [postfix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/postfix_evaluation.cpp)
  - [infix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/infix_evaluuation.cpp)
