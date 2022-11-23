@@ -26,7 +26,7 @@
  - [infix_evaluation](https://github.com/Shakil-RU/Data-Structure/blob/main/Stack/infix_evaluuation.cpp)
  
 ## Queue
- - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation)
+ - [queue](https://github.com/Shakil-RU/Data-Structure/blob/main/Queue/queue%20and%20its%20operation.cpp)
  
 ## Recursion
  - [factorial](https://github.com/Shakil-RU/Data-Structure/blob/main/Recursion/factorial)
