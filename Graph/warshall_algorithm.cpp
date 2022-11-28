@@ -1,55 +1,50 @@
-#include<bits/stdc++.h>
+#include<iostream>
+
 using namespace std;
 
-int matrix[20][20];
-int main()
-{
-    int vertex;
-    int edge;
-    cout<<"Enter number of vertex"<<endl;
-    cin>>vertex;
-    cout<<"Enter the number of edge"<<endl;
-    cin>>edge;
-    int matrix[vertex][vertex];
-    cout<<"Enter the matrix"<<endl;
-    for(int i = 0; i<vertex; i++)
-    {
-       for(int j = 0; j<vertex; j++)
-       {
-        cin>>matrix[i][j];
-       }
-    }
+#define MAX 1000000000
 
-    cout<<"p[0] matrix is: "<<endl;
-    for(int i = 0; i<vertex; i++)
-    {
-        for(int j = 0; j<vertex; j++)
-        {
-            cout<<matrix[i][j]<<" ";
-        }
-        cout<<endl;
-    }
-for(int k = 0; k<vertex; k++)
-{
-    for(int i = 0; i<vertex; i++)
-    {
-        for(int j = 0; j<vertex; j++)
-        {
-            matrix[i][j] = matrix[i][j]?matrix[i][j]:(matrix[i][k] && matrix[k][j]);
+int main() {
+
+    cout << "Enter number of vertices : ";
+    int v;
+    cin >> v;
+
+    int matrix[v][v];
+    cout << "Enter the matrix : \n";
+    int shortest_path_matrix[v][v];
+    for(int i = 0; i < v; i++) {
+        for(int j = 0; j < v; j++) {
+            cin >> matrix[i][j];
+            if(matrix[i][j] == 0) shortest_path_matrix[i][j] = MAX;
+            else shortest_path_matrix[i][j] = matrix[i][j];
         }
     }
-}
 
-cout<<"path matrix p[4] is as follows: "<<endl;
-for(int i = 0; i<vertex; i++)
-{
-    for(int j = 0; j<vertex; j++)
-    {
-        cout<<matrix[i][j]<<" ";
+    // calculate shortest path matrix :
+    for(int k = 0; k < v; k++) {
+        
+        cout << endl << endl;
+        for(int i = 0; i < v; i++) {
+            for(int j = 0; j < v; j++) {
+                cout << shortest_path_matrix[i][j] << " ";
+            }
+        cout << endl;
+        }
+
+        for(int i = 0; i < v; i++) {
+            for(int j = 0; j < v; j++) {
+                shortest_path_matrix[i][j] = min(shortest_path_matrix[i][j], (shortest_path_matrix[i][k]+shortest_path_matrix[k][j]));
+            }
+        }
     }
-    cout<<endl;
-}
 
-return 0;
-
+    cout << "\nShortest path matrix : \n";
+    for(int i = 0; i < v; i++) {
+        for(int j = 0; j < v; j++) {
+            cout << shortest_path_matrix[i][j] << " ";
+        }
+        cout << endl;
+    }
+    return 0;
 }
