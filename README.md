@@ -1,3 +1,7 @@
+Name : Abdullah Numan Shakil.</br>
+Dept. of Computer Science & Engineering.</br>
+University of Rajshahi.</br>
+
 # Data-Structure
 
 ## Array
